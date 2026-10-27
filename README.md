@@ -1,6 +1,6 @@
 # LTE network design: San Cristóbal and Usme, Bogotá
 
-Coverage dimensioning of an LTE FDD network for the urban area of two localities in southern Bogotá, Colombia. Course project for Cellular Communications at Universidad del Norte. **In progress:** Part 1 (coverage) is complete; capacity dimensioning comes next.
+Coverage dimensioning of an LTE FDD network for the urban area of two localities in southern Bogotá, Colombia. Course project for Cellular Systems (Sistemas Celulares) at Universidad del Norte. **In progress:** Part 1 (coverage) is complete; capacity dimensioning comes next.
 
 **Interactive map:** [andresjsaco.vercel.app/lte](https://andresjsaco.vercel.app/lte/)
 
